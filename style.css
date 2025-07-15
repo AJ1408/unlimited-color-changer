@@ -1,0 +1,23 @@
+ body{
+          margin: 0;
+          padding: 0;
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+          text-align: center;
+        }
+        .container{
+            text-align: center;
+            margin-top: 80px;
+            height: 30vh;
+            width: 70vh;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+        }
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
